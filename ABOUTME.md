@@ -1,2 +1,3 @@
 NAME: Sherzod Mirsharipov
-EMAIL: sherzodm8441Q@hstat.org
+EMAIL: sherzodm8441@hstat.org
+SCHOOL: High School of Telecommunications and Technology

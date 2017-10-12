@@ -5,7 +5,7 @@
 #### * **EMAIL:** 
   * sherzodm8441@hstat.org  
 #### * **SCHOOL:**
-  * [High School of Telecommunications and Technology](http://www.hstat.org)  
+  * [_High School of Telecommunications and Technology_](http://www.hstat.org)  
 #### * **BIO:**
    * born 17 years ago in uzbekistan  
 #### * **SCHEDULE:**
